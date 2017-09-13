@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd:2.2.1
+FROM gcr.io/google_containers/etcd:3.1.10
 MAINTAINER Jason <piml.lui@gmail.com>
